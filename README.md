@@ -42,7 +42,7 @@ U can install it for python and javascript.
 		```
 - From PyPI
 	```bash
-	pip install jogoelang
+	pip install jogoel
 	```
 
 ### javascript
