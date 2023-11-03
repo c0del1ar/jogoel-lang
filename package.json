@@ -1,10 +1,9 @@
 {
-  "name": "@c0del1ar/jogoel-lang",
+  "name": "jogoel-lang",
   "version": "1.0.0",
   "description": "Jogja slang or \"Basa Walikan\" converter. Encoding-like style slang. And this is not programming language.",
   "main": "src/js/index.js",
   "directories": {
-    "doc": "docs",
     "test": "tests"
   },
   "scripts": {
