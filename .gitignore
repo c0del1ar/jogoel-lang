@@ -1,0 +1,4 @@
+dist/*
+**/node_modules/**
+**/*.egg-info/**
+**/__pycache__/**
