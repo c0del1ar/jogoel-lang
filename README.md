@@ -35,11 +35,11 @@ U can install it for python and javascript.
 - Build manual from source
   - Clone the repo
   - Install:
-		```bash
-		cd jogoel-lang
-		sudo python3 -m build
-		pip install dist/*whl
-		```
+	```bash
+	cd jogoel-lang
+	sudo python3 -m build
+	pip install dist/*whl
+	```
 - From PyPI
 	```bash
 	pip install jogoel
