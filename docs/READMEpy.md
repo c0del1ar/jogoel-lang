@@ -11,17 +11,17 @@ letters in the Javanese script (aksara Jawa).
 
 Javanese script consists of 20 characters, arranged in four lines, each consisting of five characters.
 
-1. Ha Na Ca Ra Ka
-2. Da Ta Sa Wa La
-3. Pa Dha Ja Ya Nya
-4. Ma Ga Ba Tha Nga
+> 1. Ha Na Ca Ra Ka
+> 2. Da Ta Sa Wa La
+> 3. Pa Dha Ja Ya Nya
+> 4. Ma Ga Ba Tha Nga
 
 To use `basa walikan`, substitute the characters in the first line to the characters
 in the third line, and the characters in the second line to the characters in
 the fourth line, and vice versa.
 
 NOTE:
-> The different between `encode` and `decode` function is just letter `ha` which
+> The differences between `encode` and `decode` function is just letter `ha` which
 become `h` or `vocal letter`
 
 ![basa walikan formula](../formula.jpg)
